@@ -38,7 +38,7 @@ public class Operations extends Object {
 		 *	Assign 5 to floaty and then divide it by 3
 		/************************************************/
 
-		float floaty = 5 / 3
+		float floaty = (5) floaty / 3
 
 		/************************************************
 		 *	ASSIGNMENT:
