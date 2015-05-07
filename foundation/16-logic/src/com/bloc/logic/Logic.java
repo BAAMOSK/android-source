@@ -40,7 +40,8 @@ public class Logic extends Object {
 		}
 
 		/************************************************
-	 	 *	ASSIGNMENT: !!!!!NEED HELP WITH THIS ONE!!!!!
+	 	 *	ASSIGNMENT: ! This symbol changes True to False
+	 	 *	and vice versa.
 	 	 *	Add a single operator to the conditional
 	 	 *	statement in order to evaluate it as 'true'
 		/************************************************/
