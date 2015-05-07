@@ -40,13 +40,13 @@ public class Logic extends Object {
 		}
 
 		/************************************************
-	 	 *	ASSIGNMENT: *****NEED HELP WITH THIS ONE*****
+	 	 *	ASSIGNMENT: !!!!!NEED HELP WITH THIS ONE!!!!!
 	 	 *	Add a single operator to the conditional
 	 	 *	statement in order to evaluate it as 'true'
 		/************************************************/
 
 		boolean aSincereFalsehood = false;
-		if (aSincereFalsehood) { // Add an operator to this line (MAYBE THIS !=)
+		if (!aSincereFalsehood) { 
 			buffer.append("g");
 		} else {
 			buffer.append("o");
